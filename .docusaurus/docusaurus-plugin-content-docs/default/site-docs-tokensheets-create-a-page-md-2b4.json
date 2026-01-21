@@ -1,0 +1,23 @@
+{
+  "id": "tokensheets/create-a-page",
+  "title": "Collect Page",
+  "description": "Styles elements found directly on the Collect page",
+  "source": "@site/docs/tokensheets/create-a-page.md",
+  "sourceDirName": "tokensheets",
+  "slug": "/tokensheets/create-a-page",
+  "permalink": "/docs/tokensheets/create-a-page",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tokensheets/create-a-page.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "styleSidebar",
+  "previous": {
+    "title": "TokenSheets",
+    "permalink": "/docs/category/tokensheets"
+  }
+}

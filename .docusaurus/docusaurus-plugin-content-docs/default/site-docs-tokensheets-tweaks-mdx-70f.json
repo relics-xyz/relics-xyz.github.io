@@ -1,0 +1,26 @@
+{
+  "id": "tokensheets/tweaks",
+  "title": "Tweaks",
+  "description": "Variables which behaviour of the window, and some globally common visuals",
+  "source": "@site/docs/tokensheets/tweaks.mdx",
+  "sourceDirName": "tokensheets",
+  "slug": "/tokensheets/tweaks",
+  "permalink": "/docs/tokensheets/tweaks",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "styleSidebar",
+  "previous": {
+    "title": "Sounds",
+    "permalink": "/docs/tokensheets/sounds"
+  },
+  "next": {
+    "title": "Window",
+    "permalink": "/docs/tokensheets/window"
+  }
+}

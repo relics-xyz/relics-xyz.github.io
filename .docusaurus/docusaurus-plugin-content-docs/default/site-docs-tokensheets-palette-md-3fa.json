@@ -1,0 +1,26 @@
+{
+  "id": "tokensheets/palette",
+  "title": "Palette",
+  "description": "Variables which change the color scheme of the whole interface",
+  "source": "@site/docs/tokensheets/palette.md",
+  "sourceDirName": "tokensheets",
+  "slug": "/tokensheets/palette",
+  "permalink": "/docs/tokensheets/palette",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "styleSidebar",
+  "previous": {
+    "title": "Icons",
+    "permalink": "/docs/tokensheets/icons"
+  },
+  "next": {
+    "title": "Sizes",
+    "permalink": "/docs/tokensheets/sizes"
+  }
+}

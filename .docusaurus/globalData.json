@@ -1,0 +1,123 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "overview",
+          "docs": [
+            {
+              "id": "getting-started",
+              "path": "/docs/getting-started",
+              "sidebar": "styleSidebar"
+            },
+            {
+              "id": "overview",
+              "path": "/docs/overview",
+              "sidebar": "styleSidebar"
+            },
+            {
+              "id": "stylesheets/collect-page",
+              "path": "/docs/stylesheets/collect-page",
+              "sidebar": "styleSidebar"
+            },
+            {
+              "id": "stylesheets/customize-page",
+              "path": "/docs/stylesheets/customize-page",
+              "sidebar": "styleSidebar"
+            },
+            {
+              "id": "stylesheets/item-viewer-page",
+              "path": "/docs/stylesheets/item-viewer-page",
+              "sidebar": "styleSidebar"
+            },
+            {
+              "id": "stylesheets/library-page",
+              "path": "/docs/stylesheets/library-page",
+              "sidebar": "styleSidebar"
+            },
+            {
+              "id": "stylesheets/main-window",
+              "path": "/docs/stylesheets/main-window",
+              "sidebar": "styleSidebar"
+            },
+            {
+              "id": "stylesheets/mixins",
+              "path": "/docs/stylesheets/mixins",
+              "sidebar": "styleSidebar"
+            },
+            {
+              "id": "stylesheets/player",
+              "path": "/docs/stylesheets/player",
+              "sidebar": "styleSidebar"
+            },
+            {
+              "id": "stylesheets/start-collect-page",
+              "path": "/docs/stylesheets/start-collect-page",
+              "sidebar": "styleSidebar"
+            },
+            {
+              "id": "tokensheets/fonts",
+              "path": "/docs/tokensheets/fonts",
+              "sidebar": "styleSidebar"
+            },
+            {
+              "id": "tokensheets/icons",
+              "path": "/docs/tokensheets/icons",
+              "sidebar": "styleSidebar"
+            },
+            {
+              "id": "tokensheets/palette",
+              "path": "/docs/tokensheets/palette",
+              "sidebar": "styleSidebar"
+            },
+            {
+              "id": "tokensheets/sizes",
+              "path": "/docs/tokensheets/sizes",
+              "sidebar": "styleSidebar"
+            },
+            {
+              "id": "tokensheets/sounds",
+              "path": "/docs/tokensheets/sounds",
+              "sidebar": "styleSidebar"
+            },
+            {
+              "id": "tokensheets/tweaks",
+              "path": "/docs/tokensheets/tweaks",
+              "sidebar": "styleSidebar"
+            },
+            {
+              "id": "tokensheets/window",
+              "path": "/docs/tokensheets/window",
+              "sidebar": "styleSidebar"
+            },
+            {
+              "id": "/category/stylesheets",
+              "path": "/docs/category/stylesheets",
+              "sidebar": "styleSidebar"
+            },
+            {
+              "id": "/category/tokensheets",
+              "path": "/docs/category/tokensheets",
+              "sidebar": "styleSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "styleSidebar": {
+              "link": {
+                "path": "/docs/overview",
+                "label": "overview"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

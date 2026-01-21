@@ -1,0 +1,22 @@
+{
+  "id": "tokensheets/window",
+  "title": "Window",
+  "description": "Variables which change core properties of the window",
+  "source": "@site/docs/tokensheets/window.md",
+  "sourceDirName": "tokensheets",
+  "slug": "/tokensheets/window",
+  "permalink": "/docs/tokensheets/window",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "styleSidebar",
+  "previous": {
+    "title": "Tweaks",
+    "permalink": "/docs/tokensheets/tweaks"
+  }
+}

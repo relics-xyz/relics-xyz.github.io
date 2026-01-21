@@ -1,0 +1,26 @@
+{
+  "id": "stylesheets/player",
+  "title": "Player",
+  "description": "Styles elements which are part of either the mini player or full player, for playing music",
+  "source": "@site/docs/stylesheets/player.md",
+  "sourceDirName": "stylesheets",
+  "slug": "/stylesheets/player",
+  "permalink": "/docs/stylesheets/player",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "styleSidebar",
+  "previous": {
+    "title": "Main Window",
+    "permalink": "/docs/stylesheets/main-window"
+  },
+  "next": {
+    "title": "Mixins",
+    "permalink": "/docs/stylesheets/mixins"
+  }
+}

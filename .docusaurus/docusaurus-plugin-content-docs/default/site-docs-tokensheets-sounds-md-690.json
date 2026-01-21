@@ -1,0 +1,26 @@
+{
+  "id": "tokensheets/sounds",
+  "title": "Sounds",
+  "description": "Variables which change sound effects of user interactions",
+  "source": "@site/docs/tokensheets/sounds.md",
+  "sourceDirName": "tokensheets",
+  "slug": "/tokensheets/sounds",
+  "permalink": "/docs/tokensheets/sounds",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "styleSidebar",
+  "previous": {
+    "title": "Sizes",
+    "permalink": "/docs/tokensheets/sizes"
+  },
+  "next": {
+    "title": "Tweaks",
+    "permalink": "/docs/tokensheets/tweaks"
+  }
+}
