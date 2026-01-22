@@ -1,0 +1,21 @@
+#!/bin/bash
+# build-docs: Replace current branch contents with build/* from main branch, expanded to root
+
+set -e
+
+echo "Checking out build/* from main branch into current branch (production)..."
+
+git fetch dev main
+
+git checkout dev/main -- build
+
+# Remove all files/folders except ./build
+find . -mindepth 1 -maxdepth 1 ! -name 'build' ! -name 'build-docs' ! -name 'package.json' ! -name '.git' ! -name '.' ! -name '..' -exec rm -rf {} +
+
+# Move build/* to root
+mv build/* .
+
+# Remove the now-empty build folder
+rm -rf build
+
+echo "Done. Staged files are now the contents of build/ from main branch."
